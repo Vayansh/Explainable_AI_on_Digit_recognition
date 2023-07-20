@@ -1,10 +1,10 @@
-# Digit_recognition
+# Explainable AI on Digit_Recognition
 
 ## Motive
-  To create a CNN model to detect digit in image and furthermore use Shap Explainer to explain why a image is classified in that class.
+  To create a CNN model to detect digits in an image and furthermore, use Shap Explainer to explain why an image is classified in that class.
 
 ## Dataset Selection
-  MNIST dataset from kaggle. It contains 500 images of each 0-9 along with another 500 blank images so as to train model to predict non digit images. Self-made  
+  MNIST dataset from Kaggle. It contains 500 images of each digit (0–9) along with another 500 blank images so as to train a model to predict non-digit images. Self-made  
   
   [Link to Dataset](https://drive.google.com/file/d/1Qc2cAJuQD0MzCr1_-wnnYWmVXAmSfcIi/view?usp=sharing)
 
@@ -41,6 +41,9 @@
 
   ![image](https://github.com/Vayansh/Digit_recognition/assets/92180055/a2afb8bc-4001-4d0d-8e7b-6c8192f8324b)
 
+## Accuracy 
+
+   This Convolutional Neural Network (CNN) model demonstrated a respectable accuracy of 0.94% at around 1100 test cases, demonstrating its strong performance and       efficacy in handling the assigned task.
 
 ## Shap Explanation 
 
