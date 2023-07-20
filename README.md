@@ -1,7 +1,9 @@
 # Explainable AI on Digit_Recognition
 
 ## Motive
-  To create a CNN model to detect digits in an image and furthermore, use Shap Explainer to explain why an image is classified in that class.
+  The objective is twofold: 
+  1) First, to develop a Convolutional Neural Network (CNN) model capable of accurately detecting digits within images.
+  2) Second, to employ the Shap Explainer technique to gain insights into the reasons behind the model's classification decisions for each image.
 
 ## Dataset Selection
   MNIST dataset from Kaggle. It contains 500 images of each digit (0–9) along with another 500 blank images so as to train a model to predict non-digit images. Self-made  
