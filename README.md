@@ -6,7 +6,7 @@
   2) Second, to employ the Shap Explainer technique to gain insights into the reasons behind the model's classification decisions for each image.
 
 ## Dataset Selection
-  MNIST dataset from Kaggle. It contains 500 images of each digit (0–9) along with another 500 blank images so as to train a model to predict non-digit images. Self-made  
+  I redesigned the Kaggle MNIST dataset to recognize digits (0-9) along with non-digit images. It includes 500 photos of each digit (0-9) as well as 500 blank images for training a model to predict digits in images.  
   
   [Link to Dataset](https://drive.google.com/file/d/1Qc2cAJuQD0MzCr1_-wnnYWmVXAmSfcIi/view?usp=sharing)
 
